@@ -6,3 +6,7 @@ JavaScript
 
 ### Deploy
 https://maristakhovskaya.github.io/simple-quiz/
+
+> [!NOTE]
+> Created during the learning process
+
